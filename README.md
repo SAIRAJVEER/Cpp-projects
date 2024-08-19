@@ -1,1 +1,2 @@
-# Tic-tac-toe-C-
+# Tic-tac-toe-Cpp 
+created as for a practice.
